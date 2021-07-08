@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Project</title>
+</head>
+<body>
+    <h1>Pushti Yadav</h1>
+    <nav>
+        <a href="google.com">One</a>
+        <a href="google.com">Two</a>
+        <a href="google.com">Three</a>
+        <a href="google.com">Four</a>
+    </nav>
+    <section class="section" id="favouritefood ">
+        <h2>Favourite Foods </h2>
+        <ul>
+            <li>Pizza</li>
+            <li>Chocalates</li>
+            <li>Pasteries</li>
+            <li>Paneer tika</li>
+        </ul>
+    </section>
+    <section class="section" id="achivements"> 
+        <h2>Achievements</h2>
+        <label for="one">Progress in this course(100%)</label>
+        <progress id="one" value="100" max="100">100%</progress>
+        <br>
+        <label for="two">Progress in this Specialization capstone(20%)</label>
+        <progress id="two" value="20" max="100">20%</progress>
+        <br>
+        <label for="three">Progress in life goals(70%)</label>
+        <progress id="one" value="70" max="100">70%</progress>
+    </section>
+    <section class="section" id="aboutme">
+        <h2>More About Me</h2>
+        <details>
+            <summary>
+                My childhood
+            </summary>
+            <p>
+                I grew up in Gujarat. I was a kinda notorious child. I used to love to play in the garden and have lots of chocalates. 
+            </p>
+        </details>
+    </section>
+    <footer>
+        
+            <p><img src="newlogo.png" alt="logo sign">This page was created by Pushti Yadav & Colleen van Lent. to learn more about web design, visit 
+                <a href="http://www.intro-webdesign.com">Intro to Web Design.</a></p>
+    </footer>
+    
+</body>
+</html>
